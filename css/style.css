@@ -7,7 +7,7 @@
   --highligh-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url('../assets/moon-star.svg');
 }
-
+/* Theme Class Change */
 .light {
   --text-color: black;
   --bg-url: url('../assets/bg-light-web.jpg');
